@@ -1,2 +1,2 @@
 # test_repo
-just a new repo to check somee features
+just a new repo to check some features
